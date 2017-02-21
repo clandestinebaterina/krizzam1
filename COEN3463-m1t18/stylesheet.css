@@ -1,0 +1,93 @@
+body {
+	background-color:#e6e6e6;
+}
+
+h2 {
+	font-family: Georgia;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 8px;
+	color: #acd1b2;
+	margin-top:0;
+}
+
+#navbar {
+	position: relative;
+	top:-10px;
+	border: solid #d1e1e1;
+	background-color:#666666;
+		
+}
+
+#header {
+	position: relative;
+	top: 10px;
+	background-color: #3c4543;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 15px;
+}
+
+ ul{
+	list-style-type: none;
+	position: relative;
+	margin: 40px;
+
+}
+
+li {
+	display: inline;
+	border: 2px solid #000000;
+	font-family: Georgia, Tahoma, sans-serif;
+	color: #262626;
+	padding: 5px;
+	border-radius: 5px 5px;
+	background-color: #cccccc;
+}
+
+p {
+	font-family: Georgia;
+	font-size: 1em;
+	position: relative;
+	bottom: 20px;
+	font-size: 2em;
+	color: #4d4d4d;
+	text-align:left;
+	
+}
+
+ul {
+    list-style-type: none;
+}
+a:visited, a:link {
+	color:#2f84a3;
+	text-decoration:none;
+	background:none;
+}
+
+a:hover {
+	color:#a43b55;
+	text-decoration:underline;
+	background:none;
+	}
+
+
+.baterina
+{
+
+margin-left: 520px;
+position: absolute;
+}
+
+
+/*.manantan
+{
+
+margin-left: 750px;
+position: absolute;
+}*/
+
+.bot
+{
+margin-top: 500px;
+}

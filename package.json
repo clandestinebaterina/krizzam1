@@ -1,0 +1,26 @@
+{
+  "name": "module1.2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clandestinebaterina/krizzam1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clandestinebaterina/krizzam1/issues"
+  },
+  "homepage": "https://github.com/clandestinebaterina/krizzam1#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
